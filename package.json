@@ -2,7 +2,7 @@
 	"name": "html-snippets-migrated",
 	"displayName": "HTML5 Snippets - Remaster",
 	"description": "Migration - Full HTML tags including HTML5 Snippet, Principal proyect https://github.com/abusaidm/html-snippets",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "CKurisu",
 	"icon": "images/icon.png",
 	"engines": {
