@@ -120,13 +120,13 @@
 //     },
 //     "br": {
 //     "prefix": "br",
-//     "body": "<br>",
+//     "body": "<br />",
 //     "description": "HTML - Inserts a single line break",
 //     "scope": "text.html"
 //     },
 //     "button": {
 //     "prefix": "button",
-//     "body": "<button type=\"$1\">$2</button>$3",
+//     "body": "<button type=\"$1\" id=\"$2\" name=\"$2\">$3</button>$4",
 //     "description": "HTML - Defines a push button",
 //     "scope": "text.html"
 //     },
